@@ -43,6 +43,7 @@ dependencies:
   google_maps_flutter: 
   cool_alert: ^2.0.1
   meilisearch: ^0.15.0  
+  flutter_polyline_points:
 
 dev_dependencies:
   flutter_test:
